@@ -1,2 +1,4 @@
 # This is an example repository
-Hello!
+Hello Coders!
+
+This is the second change
